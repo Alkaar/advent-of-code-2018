@@ -1,2 +1,5 @@
 *.class
 *.log
+*.xml
+/project
+/target
